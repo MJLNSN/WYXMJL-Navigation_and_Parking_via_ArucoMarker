@@ -22,13 +22,8 @@ Team numbers: WYX, MJL.
   
     raspberrypi (password) 
   
-## 3. Catkin make the package
-
-    cd ~/catkin_ws
-  
-    catkin_make
  
-## 4. Launch the nodes
+## 3. Launch the nodes and run the program
   1. Launch the roscore **(in PC Terminal)**
   
     roscore 
