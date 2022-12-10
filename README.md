@@ -14,7 +14,7 @@ Team numbers: WYX, MJL.
 
     cd ~/catkin_ws/src
   
-    git clone git@github.com:MJLNSN/MJLWYX-Navigation_And_Parkingg.git
+    git clone git@github.com:WYXMJL-Navigation_and_Parking_via_ArucoMarker.git
   
 ## 2. Connect the turtlebot to pc
 
