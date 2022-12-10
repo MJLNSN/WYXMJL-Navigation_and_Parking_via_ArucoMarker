@@ -1,7 +1,7 @@
 ## WYXMJL-Navigation_and_Parking 
 This is the lab6 resource for EE346.
 
-We aim to achieve lane following and parking via the detection of aruco marker.
+We aim to achieve fout-point navigation and parking via the detection of aruco marker.
 
 This work was done with the help of Prof.Zhang and all TAs.
 
